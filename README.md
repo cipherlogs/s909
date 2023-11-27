@@ -1,21 +1,8 @@
-<p align="center">
-  <a href="#">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./logo-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="./logo-light.png">
-      <img alt="repo logo" src="./logo-dark.png">
-    </picture>
-  </a>
-</p>
-
 <h1 align="center">
   Sprint 909
 </h1>
-
 <p align="center">
-    <strong>
-        Achieve a decade’s worth of skills in one year.
-    </strong>
+    <strong>Achieve a decade’s worth of skills in one year.</strong>
 </p>
 
 <p align="center">
@@ -25,7 +12,6 @@
 </p>
 
 <br >
-
 
 # Sprints to Transform Your Life
 
