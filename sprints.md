@@ -1,5 +1,3 @@
-Secure your spot for the upcoming second season or enjoy early access to the first season by clicking [here](https://forms.gle/CW1jqB9HpKbqwUY78).
-
 # Season 1
 
 ### Your Mission
@@ -20,6 +18,9 @@ This journey will be a true test of your VIM skills and your ability to think cr
 
 Every day, produce four solutions—one for each part of both scenarios. It's not a suggestion; it's a requirement for advancement. Your progress to the next day depends on it.
 
+## Getting started
+You can start the first season and get full access by completing your application [here](https://forms.gle/CW1jqB9HpKbqwUY78).
+
 ## Why Advent of Code?
 
 1. **Pioneering VIM Prowess:** Master crafting elegant, efficient solutions using VIM—an unprecedented journey into the world of Vim. Create robust solutions surpassing those in programming languages, emphasizing conciseness and speed of development.
@@ -29,13 +30,9 @@ Every day, produce four solutions—one for each part of both scenarios. It's no
 3. **Building Intuition and Scaling Solutions:** The puzzles are cleverly designed; rushing through the first part often means doubling down on effort for the second. It's about thinking ahead and scaling your solutions.
 
 ### Curriculum and Public Lectures
-For those not part of the program or not using VIM, the complete curriculum is available. If you're part of the group, you access the official curriculum through Discord.
+For those not part of the program, the following `Walkthrough videos` are being made public so that others can get a head start, grasp the concepts, and even try using their preferred text editors. However, they won't be able to participate directly in the first season.
 
-These `Walkthrough videos` are being made public so that others can join in once Season Two begins. They can get a head start, grasp the concepts, and even try using their preferred text editors. However, they won't be able to participate directly in the first season.
-
-These public lectures are open to everyone for Season Two preparation:
-
-+ **WEEK 1:**
++ **WEEK 1:** (starting soon)
   + Day 1: Instructions | [Walkthrough video](#) | Solutions and exercises
   + Day 2: Instructions | [Walkthrough video](#) | Solutions and exercises
   + Day 3: Instructions | [Walkthrough video](#) | Solutions and exercises
