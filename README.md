@@ -44,6 +44,7 @@ The next section will delve into how each season is meticulously designed with t
 
 ## 3. The Path
 ![Roadmap visual](./01-Roadmap.png)
+
 Finding the sweet spot between paying attention to the nitty-gritty details and grasping the big picture is key.
 It's like trying not to get lost in the maze of technical intricacies that might seem like progress, but in reality, could lead you down a path of diminishing returns.
 
