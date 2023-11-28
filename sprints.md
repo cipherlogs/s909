@@ -21,6 +21,8 @@ Every day, produce four solutions—one for each part of both scenarios. It's no
 ## Getting started
 You can start the first season and get full access by completing your application [here](https://forms.gle/CW1jqB9HpKbqwUY78).
 
+<br>
+
 ## Why Advent of Code?
 
 1. **Pioneering VIM Prowess:** Master crafting elegant, efficient solutions using VIM—an unprecedented journey into the world of Vim. Create robust solutions surpassing those in programming languages, emphasizing conciseness and speed of development.
@@ -33,10 +35,10 @@ You can start the first season and get full access by completing your applicatio
 For those not part of the program, the following `Walkthrough videos` are being made public so that others can get a head start, grasp the concepts, and even try using their preferred text editors. However, they won't be able to participate directly in the first season.
 
 + **WEEK 1:** (starting soon)
-  + Day 1: Instructions | [Walkthrough video](#) | Solutions and exercises
-  + Day 2: Instructions | [Walkthrough video](#) | Solutions and exercises
-  + Day 3: Instructions | [Walkthrough video](#) | Solutions and exercises
-  + Day 4: Instructions | [Walkthrough video](#) | Solutions and exercises
+  + Day 1: Instructions | Walkthrough video | Solutions and exercises
+  + Day 2: Instructions | Walkthrough video | Solutions and exercises
+  + Day 3: Instructions | Walkthrough video | Solutions and exercises
+  + Day 4: Instructions | Walkthrough video | Solutions and exercises
   + Day 5: Practice day
   + Day 6: Instructions | Group challenge
   + Day 7: Instructions | Group challenge
