@@ -3,6 +3,8 @@
 ### Your Mission
 Venture into the [Advent Of Code](https://adventofcode.com/) challenges using VIM. Each day, face puzzles with two interconnected parts, demanding a unique approach. This global challenge unites programmers to solve puzzles, but this time, the twist is relying solely on VIM, to crack the codes.
 
+<br>
+
 ### Challenges Redefined
 These challenges, originally designed for programming languages, become opportunities to showcase VIM's power in solving low-level complex problems and our daily sprint instructions make puzzles trickier, maximizing learning potential.
 
@@ -18,6 +20,9 @@ This journey will be a true test of your VIM skills and your ability to think cr
 
 Every day, produce four solutions—one for each part of both scenarios. It's not a suggestion; it's a requirement for advancement. Your progress to the next day depends on it.
 
+<br>
+<br>
+
 ## Getting started
 You can start the first season and get full access by completing your application [here](https://forms.gle/CW1jqB9HpKbqwUY78).
 
@@ -25,11 +30,11 @@ You can start the first season and get full access by completing your applicatio
 
 ## Why Advent of Code?
 
-1. **Pioneering VIM Prowess:** Master crafting elegant, efficient solutions using VIM—an unprecedented journey into the world of Vim. Create robust solutions surpassing those in programming languages, emphasizing conciseness and speed of development.
+1. **Speedy and Elegant:** The puzzles are cleverly designed; rushing through the first part often means doubling down on effort for the second. It's about thinking ahead and scaling your solutions. Master crafting elegant, efficient solutions using VIM—an unprecedented journey into the world of Vim. Create robust solutions surpassing those in programming languages, emphasizing conciseness and speed of development.
 
 2. **Thinking Outside the Box:** If you've faced these challenges before, that's fantastic. Now, envision solving them with VIM, where you'll need to embrace the VIM philosophy and think creatively.
 
-3. **Building Intuition and Scaling Solutions:** The puzzles are cleverly designed; rushing through the first part often means doubling down on effort for the second. It's about thinking ahead and scaling your solutions.
+<br>
 
 ### Curriculum and Public Lectures
 For those not part of the program, the following `Walkthrough videos` are being made public so that others can get a head start, grasp the concepts, and even try using their preferred text editors. However, they won't be able to participate directly in the first season.
@@ -52,4 +57,4 @@ For those not part of the program, the following `Walkthrough videos` are being 
 
 Everything is designed to seamlessly build upon what you'll learn in upcoming seasons. Public videos provide a solid foundation. Participate, grasp concepts, and build on your knowledge.
 
-Join us in this exciting adventure, mastering VIM through Advent Of Code challenges! Click [here](https://forms.gle/CW1jqB9HpKbqwUY78) to be part of the journey. Believe it can happen; keep moving forward!
+Join us in this exciting adventure, mastering VIM through Advent Of Code challenges! Click [here](https://forms.gle/CW1jqB9HpKbqwUY78) to be part of the journey.
