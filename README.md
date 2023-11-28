@@ -2,8 +2,8 @@
   <img src="./logo.png">
 </h1>
 <h4 align="center">
-  <a href="./sprints.md">How to join</a> | 
-  <a href="./how-we-got-here.md">Why | 
+  <a href="./sprints.md">JOIN</a> | 
+  <a href="./how-we-got-here.md">WHY</a> | 
   <a href="./faq.md">FAQ</a>
 </h4>
 
