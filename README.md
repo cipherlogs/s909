@@ -52,6 +52,8 @@ I'll be your trusty guide, pointing out the crucial bits and waving a red flag w
 There comes a moment when the small gains don't pack the same punch, and the energy you put in doesn't quite match the rewards you're reaping.
 So, here's the plan—a three-part journey, each phase crafted to hit specific goals.
 
+<br>
+
 + [Season 3](./s3.md)
 + [Season 2](./s2.md)
 + [Season 1](./s1.md)
