@@ -1,5 +1,7 @@
-# Season 1
+<h1 align="center"><img src="https://seeklogo.com/images/V/vim-logo-A3E02B1F74-seeklogo.com.png"></h1>
 
+
+# Season 1
 ### Your Mission
 Venture into the [Advent Of Code](https://adventofcode.com/) challenges using VIM. Each day, face puzzles with two interconnected parts, demanding a unique approach. This global challenge unites programmers to solve puzzles, but this time, the twist is relying solely on VIM, to crack the codes.
 
