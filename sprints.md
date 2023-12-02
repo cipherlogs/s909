@@ -1,45 +1,40 @@
 <h1 align="center"><img src="https://seeklogo.com/images/V/vim-logo-A3E02B1F74-seeklogo.com.png"></h1>
 
+# Your Mission
 
-# Season 1
-### Your Mission
-Venture into the [Advent Of Code](https://adventofcode.com/) challenges using VIM. Each day, face puzzles with two interconnected parts, demanding a unique approach. This global challenge unites programmers to solve puzzles, but this time, the twist is relying solely on VIM, to crack the codes.
+<br>
+
+Every day, you will face puzzles with two interconnected parts, demanding a unique approach. You will join programmers from around the world in solving these puzzles, but with a twist: **you will only use VIM and unix utils to crack the codes.**
+
+This journey will challenge your VIM skills and your creative and resourceful thinking. You will explore new possibilities with VIM, going beyond what you thought it could do. And as you advance through the [Advent Of Code](https://adventofcode.com) puzzles, you will transform yourself.
 
 <br>
 
 ### Challenges Redefined
-These challenges, originally designed for programming languages, become opportunities to showcase VIM's power in solving low-level complex problems and our daily sprint instructions make puzzles trickier, maximizing learning potential.
+These challenges are low-level tasks that most people solve using their favorite programming language. There is a big condition that you have to meet for your solutions to count.
 
-### Journey Highlights
-This journey will be a true test of your VIM skills and your ability to think creatively and resourcefully. You'll discover new ways to use VIM, pushing it beyond its perceived limitations. And as you progress, you'll gain a deeper understanding of VIM's philosophy, its emphasis on efficiency and control.
+You have to come up with solutions that are faster to compose than the programming language equivalents.
 
+<br>
 
 **Every day, you'll put yourself in two scenarios:**
 
-1. **Daily Job Dilemma:** Picture this: a challenge lands on your desk during your regular workday. You need to master solving it swiftly to get back to your real job. A crucial skill for VIM users.
+1. **Rapid Editing:** Imagine this: you are busy editing some text in VIM, when suddenly a challenge pops up on the same file you are working on. You have to solve it quickly to resume your original task. speed is key here.
 
-2. **The Future-Proof Solution:** Now, assume the challenge might become a recurring guest on your desk. Solve it in a way that's scalable—write a Vimscript that conquers today's problem and remains resilient as the problem evolves.
-
-Every day, produce four solutions—one for each part of both scenarios. It's not a suggestion; it's a requirement for advancement. Your progress to the next day depends on it.
+2. **Future-Proof:** Suppose the challenge is not a one-time event, but a frequent occurrence. You need to solve it in a way that’s adaptable and scalable by writing a Vimscript that handles today’s problem and can cope with future changes.
 
 <br>
 <br>
 
-## Getting started
-You can start the first season and get full access by completing your application [here](https://forms.gle/CW1jqB9HpKbqwUY78).
-
 <br>
 
-## Why Advent of Code?
-
-1. **Speedy and Elegant:** The puzzles are cleverly designed; rushing through the first part often means doubling down on effort for the second. It's about thinking ahead and scaling your solutions. Master crafting elegant, efficient solutions using VIM—an unprecedented journey into the world of Vim. Create robust solutions surpassing those in programming languages, emphasizing conciseness and speed of development.
-
-2. **Thinking Outside the Box:** If you've faced these challenges before, that's fantastic. Now, envision solving them with VIM, where you'll need to embrace the VIM philosophy and think creatively.
+# Getting started
+Click [here](https://forms.gle/CW1jqB9HpKbqwUY78) to reserve your spot and be part of the journey.
 
 <br>
 
 ### Curriculum and Public Lectures
-For those not part of the program, the following `Walkthrough videos` are being made public so that others can get a head start, grasp the concepts, and even try using their preferred text editors. However, they won't be able to participate directly in the first season.
+The program is designed to help you learn new skills and concepts in a progressive way. For those who are not enrolled in the program, we are making the following Walkthrough videos available to the public. You can watch them to get a glimpse of what the program offers, understand the concepts, and even experiment with your own text editors. However, you will not be able to join the first season directly if you are not a VIM user.
 
 + **WEEK 1:** (starting soon)
   + Day 1: Instructions | Walkthrough video | Solutions and exercises
@@ -57,6 +52,3 @@ For those not part of the program, the following `Walkthrough videos` are being 
 + **WEEK 6:**
 + **WEEK 7:**
 
-Everything is designed to seamlessly build upon what you'll learn in upcoming seasons. Public videos provide a solid foundation. Participate, grasp concepts, and build on your knowledge.
-
-Join us in this exciting adventure, mastering VIM through Advent Of Code challenges! Click [here](https://forms.gle/CW1jqB9HpKbqwUY78) to be part of the journey.
