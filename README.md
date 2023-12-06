@@ -74,4 +74,4 @@ I now recognize this as an opportune moment to create these chellenging adventur
 <br>
 
 
-*Best of luck on your transformative journey! To stay in the loop and participate with ideas, Join me on Twitter [@cipherlogs](https://twitter.com/cipherlogs).*
+*Best of luck on your transformative journey! To stay in the loop and participate with ideas, Join me on Twitter [@cipherlogs](https://twitter.com/intent/follow?screen_name=cipherlogs).*
