@@ -39,7 +39,7 @@ For those who are not enrolled in the program, we are making the following Walkt
 
 
 + **WEEK 1:** (starting soon)
-  + Day 1: ~Instructions~ | [Walkthrough video](https://youtu.be/9fUDbq933fE?si=ijfZTQ8KsJMLwbe4) | ~Solutions and exercises~
+  + Day 1: [Instructions](https://cipherlogs.com/how-to-solve-advent-of-code-using-only-vim-episode-1) | [Walkthrough video](https://youtu.be/9fUDbq933fE?si=ijfZTQ8KsJMLwbe4) | [Solutions and exercises](https://cipherlogs.com/how-to-solve-advent-of-code-using-only-vim-episode-1)
   + Day 2: ~Instructions~ | Walkthrough video | ~Solutions and exercises~
   + Day 3: ~Instructions~ | Walkthrough video | ~Solutions and exercises~
   + Day 4: ~Instructions~ | Walkthrough video | ~Solutions and exercises~
