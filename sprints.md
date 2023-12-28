@@ -1,4 +1,4 @@
-<p align="center"><img src="./aovlogo.png"></p>
+<p align="center"><img src="./aovlogo.jpeg"></p>
 
 # Your Mission
 <br>
