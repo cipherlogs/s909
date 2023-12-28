@@ -1,4 +1,4 @@
-<p align="center"><img src="https://seeklogo.com/images/V/vim-logo-A3E02B1F74-seeklogo.com.png"></p>
+<p align="center"><img src="./aovlogo.png"></p>
 
 # Your Mission
 <br>
