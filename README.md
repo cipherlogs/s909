@@ -67,7 +67,7 @@ Explore the latest sprints [here](./sprints.md).
 <br>
 
 ## 5. Conclusion
-I now recognize this as an opportune moment to create these chellenging adventures. I am inspired to enable you to become the most competent engineer you can be, thereby sculpting a fulfilling and influential career.
+This as an opportune moment to create these chellenging adventures. I am inspired to enable you to become the most competent engineer you can be, thereby sculpting a fulfilling and influential career.
 
 **As an engineer, you possess a unique potential to impact the world through your projects, innovations, and solutions.**
 
